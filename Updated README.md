@@ -1,0 +1,4 @@
+# New-Github-Repo-for-Break-out-Session
+My name is Darian Hashemzadeh and I have a major in Business Administration with a concentration in Finance and Minor in Economics
+I would ultimately like to work in the Fintech industry, ideally at a small start-up, specficially focusing on new technologies in the Robo Advisory and Personal Finance space
+I chose Fintech as a career path because I believe that traditional financial services will completely change in the coming years to a very tech centered industry.  We have seen new and disruptive technologies revoltionize Financial Services, and that is only the start
